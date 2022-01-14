@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wollaz
-- 🏦 @Stefanini - NOC Analyst
+- 🏦 @SondaIT - Analyst 
 - 👀 I’m interested in Video Games and Development
 - 💡 I’m currently learning, Web Development and Python
 
